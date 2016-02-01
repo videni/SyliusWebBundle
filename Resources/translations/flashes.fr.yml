@@ -1,0 +1,8 @@
+# This file is part of the Sylius package.
+# (c) Paweł Jędrzejewski
+
+sylius:
+  account:
+    password:
+      change_success: Mise à jour du mot de passe réalisée avec succès
+      invalid: Le mot de passe actuel est invalide
